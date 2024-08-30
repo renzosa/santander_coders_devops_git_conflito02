@@ -3,7 +3,7 @@ function greet(name) {
 }
 
 function farewell(name) {
-    return `Goodbye, ${name}!`; // Mantém o 'Goodbye'
+    return `Goodbye, ${name}!`; // 
 }
 
-module.exports = { farewell }; // Atualizado para exportar apenas a função farewell
+module.exports = { farewell }; // 
