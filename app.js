@@ -1,3 +1,3 @@
 const { farewell } = require('./utils');
-const name = 'Alice';
+const name = 'Renzo Sá';
 console.log(farewell(name)); 
